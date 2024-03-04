@@ -11,3 +11,4 @@ pypdf
 requests
 numpy
 pandas
+google-generativeai
